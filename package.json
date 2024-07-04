@@ -1,6 +1,6 @@
 {
   "name": "gitlab-commando",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "A TypeScript library implementing command pattern with undo/redo functionality for interacting with the GitLab API.",
   "files": [
     "dist/"
@@ -22,7 +22,7 @@
     "developer-tools"
   ],
   "author": "Alejandro Buján",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "stack-typescript": "^1.0.4"
   }
